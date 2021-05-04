@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a sophomore at [Marmara CSE](http://cse.eng.marmara.edu.tr/en)
+I'm a sophomore at [Marmara CSE](http://cse.eng.marmara.edu.tr/)
 
 - Currently learning: [OpenCV](https://opencv.org/)
 
